@@ -6,7 +6,9 @@ int main()
 {
     printf("Enter the whole Digit Number");
     scanf(&digit) if (digit % 2 == 0)
+
         printf("Entered Digit is Even");
+
     else printf("Entered Digit is Odd");
     return 0;
 }
